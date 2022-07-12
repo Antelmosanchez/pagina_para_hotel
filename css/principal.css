@@ -1,0 +1,50 @@
+h1{
+    color: rgb(10, 6, 250);
+    font-size: 40px;
+    text-align: center;
+    
+}
+li{
+    display: inline;
+    padding:14px 16px ;
+    text-align: center;
+    color: rgb(189, 28, 28);
+    border-right:2px solid rgb(9, 143, 221);
+}
+
+  
+
+ul{
+   list-style-type: none;
+   margin:1px ;
+   padding: 6px;
+   overflow: hidden;
+   background-color: rgb(7, 7, 7);
+}
+    
+    
+
+li a:hover { 
+    background-color: rgb(237, 253, 16);
+    } /*cambia el color al pasar el mause*/
+.Activo{
+    background-color: rgb(240, 142, 14);
+}
+.Reg{
+    float: right;
+    
+}
+
+#example2{
+    background-image: url(samaros.jfif);
+    background-color: #ffffff;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+body{
+    background-color: rgba(0, 140, 255, 0.781);
+  
+}
